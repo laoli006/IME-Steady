@@ -1,0 +1,11 @@
+/build/
+/dist/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.dll
+.vs/
+*.user
